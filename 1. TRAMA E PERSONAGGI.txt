@@ -1,0 +1,102 @@
+1. TRAMA E PERSONAGGI
+Trama: Un potente Mago vive protetto nel suo regno con la figlia Principessa. Un misterioso individuo, che nasconde la sua natura di Drago Mutaforma, rapisce la ragazza per portarla nel suo antro vulcanico. Il Mago deve attraversare le terre infestate per salvare sua figlia.
+
+Protagonista (Il Mago): Un padre determinato. Utilizza la magia arcana basata sulla gestione della Stamina.
+Antagonista Principale (Il Drago): Un essere che appare inizialmente in forma umana ma combatte come un drago. È astuto e utilizza attacchi sonori (Urlo) e balistici (Salto).
+
+Antagonisti Secondari (Scheletrini): Guardie del corpo del Drago. Equipaggiati con spada e scudo, sono lenti e fungono da ostacolo per rallentare il Mago e consumargli la Stamina.
+
+
+
+2. SISTEMA DI COMBATTIMENTO E CURA
+Protagonista
+Fireball (Attacco): Consuma 5 Stamina. Proiettile rapido a lunga distanza.
+
+Cura (Rigenerazione): Consuma 45 Stamina. Restituisce istantaneamente 1/3 della vita totale (33%).
+
+Gestione Stamina: La barra blu si ricarica automaticamente nel tempo stando fermi o muovendosi senza attaccare.
+
+
+Antagonista Principale (Boss)
+Urlo Viola (Stun + Danno): Il boss carica (luce viola) e colpisce un'area conica casuale (Destra, Centro o Sinistra). Toglie il 5% di vita e infligge uno Stun di 5 secondi.
+
+Salto (Area): Il boss salta e atterra creando un cerchio di palle di fuoco che si espandono. Bisogna infilarsi tra le palle per non subire danno.
+
+
+Antagonisti Secondari
+
+Attacco Fisico: Colpo di spada ravvicinato (poco danno). Muoiono con 1 o 2 Fireball.
+
+
+
+3. AMBIENTE E LIVELLI
+
+
+Il gioco si sviluppa su 3 Livelli con visuale dall'alto (stile Pokémon vecchi):
+Livello 1: L'Ingresso del Castello. Introduzione al movimento. Pochi scheletrini sparsi per imparare a usare la Fireball.
+
+Livello 2: Le Terre Arse. Compaiono le Crepe di Lava. Se calpestate, tolgono il 5% di vita ogni 2 secondi. Qui bisogna imparare a schivare i nemici mentre si evita il terreno pericoloso.
+
+Livello 3: L'Antro del Drago (Arena). Stanza finale spaziale. Presenza di lava ai bordi e il Boss al centro. Qui si svolge lo scontro finale per liberare la Principessa.
+
+4. GUIDA PER L'UTENTE (Meccaniche di Gioco)
+Movimento: L'utente muove il Mago nelle quattro direzioni (Nord, Sud, Ovest, Est) usando i tasti direzionali o analogico.
+Attacco: Premendo il tasto d'attacco, il Mago lancia una Fireball verso la direzione in cui è rivolto. È fondamentale non "spammare" per non svuotare la Stamina.
+Cura: Quando la vita è bassa (barra rossa), l'utente deve assicurarsi di avere quasi metà barra stamina piena per attivare la Cura.
+Difesa/Schivata: Non esiste un tasto parata. La difesa consiste nel posizionamento: uscire dal cono viola dell'urlo prima che si attivi e stare lontani dalla lava.
+Gestione Tempo:
+Stun: Se colpito dall'Urlo, l'utente perde il controllo del personaggio per 5 secondi.
+Danno nel tempo: La lava punisce la sosta prolungata (5% ogni 2 secondi).
+Recupero: Il tempo è l'alleato per recuperare Stamina, ma il nemico se il Boss sta caricando un attacco.
+
+
+5. CONDIZIONI DI VITTORIA E SCONFITTA
+Come si vince: Arrivare alla fine del Livello 3, azzerare la vita del Drago e toccare l'NPC della Principessa per "riprenderla".
+Come si perde: La vita (HP) arriva allo 0%. La morte può avvenire per accumulo di danni da lava, colpi degli scheletri o combo Urlo + Palle di fuoco del boss.
+Questa struttura copre ogni aspetto logico e narrativo necessario per la realizzazione
+
+
+
+
+
+
+
+
+
+
+
+TITOLO: Aether & Scales: Il Riscatto del Mago
+1. TRAMA E PROTAGONISTA
+Il regno è nel caos: la Principessa è stata rapita da un misterioso nobile che nasconde una natura bestiale. Il giocatore interpreta suo padre, un Mago che deve scalare le terre del regno per raggiungere il Trono del Drago.
+Protagonista: 100 HP (Vita) / 100 SP (Stamina).
+Rigenerazione SP: +2 punti al secondo (solo se non si attacca).
+Obiettivo: Salvare la figlia prima dello scadere del tempo.
+2. SISTEMA DI COMBATTIMENTO E CURE
+Abilità del Mago:
+Fireball (5 SP): Infligge 20 danni. Uccide gli scheletri base con un colpo solo.
+Cura (45 SP): Rigenera il 33% (1/3) degli HP totali. Essendo costosa, richiede una pausa tattica per ricaricare la stamina.
+L'Antagonista Principale (Il Boss):
+Fase 1 (Umana): Fino al 50% HP. È rapido, schiva le fireball e usa l'Urlo Viola.
+Urlo: Cono casuale (Dx, Sx, Centro). Toglie il 5% HP e applica Stun per 5 secondi.
+Fase 2 (Drago): Al 50% HP si trasforma in un drago enorme.
+Salto: Crea un cerchio di palle di fuoco che si espandono. Bisogna schivare passando negli spazi vuoti.
+Antagonisti Secondari:
+Scheletrini: 20 HP. Attaccano fisicamente. Possono lasciare cadere oggetti utili (Drop).
+3. LIVELLI E PROGRESSIONE
+Livello 1 (Il Bosco): Tutorial. Pochi scheletrini per imparare a mirare e gestire la stamina.
+Livello 2 (Le Grotte): Introduzione alle Crepe di Lava (5% danno ogni 2 sec). Qui il giocatore è obbligato a usare la Cura per sopravvivere al calore ambientale.
+Livello 3 (Il Trono del Drago): L'arena finale. Spazi stretti, lava ai bordi e lo scontro in due fasi con il boss.
+4. MECCANICHE AGGIUNTIVE (Pick-ups e UI)
+Oggetti Raccoglibili (Drop dagli Scheletri):
+Pozione Blu: Recupero istantaneo di 20 SP.
+Pagina del Libro: Raccogliendone 3, la Fireball diventa Gigante per 10 secondi (area di impatto maggiore).
+Interfaccia Utente (UI):
+Barre: In alto a sinistra, Barra Rossa (Vita) e Barra Blu (Stamina).
+Messaggi: Box di testo in basso per avvisi tattici (es: "Il Drago sta caricando l'Urlo!").
+Timer: Display centrale in alto con il countdown: "La principessa sarà sacrificata tra: 5:00".
+5. REGOLE DI GIOCO (Input e Loop)
+Movimento: Visuale dall'alto stile Pokémon vecchi. Il giocatore si muove nelle 4 direzioni.
+Loop Tattico: L'utente deve gestire il timer di 5 minuti. Lo Stun di 5 secondi dell'urlo non toglie solo vita, ma consuma tempo prezioso, rendendo la sconfitta per tempo una minaccia reale quanto la morte fisica.
+Condizione di Vittoria: Sconfiggere entrambe le fasi del boss e interagire con la Principessa.
+Condizione di Sconfitta: Vita a 0% oppure scadere dei 5 minuti.
+Vuoi che stabiliamo ora la distribuzione esatta degli oggetti (quante Pagine del Libro mettere per livello) o preferisci rifinire il messaggio di Game Over?
