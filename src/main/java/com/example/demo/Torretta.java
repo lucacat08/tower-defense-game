@@ -32,14 +32,14 @@ public class Torretta {
             this.cooldownSecondi = (long) 0.8;
             this.rallenta = false;
         }
-        else if (tipo == MAGICA) {
+        else if (tipo == magica) {
             this.danno           = 30;
             this.gittata         = 180;
             this.cooldownSecondi = (long) 2.0;
             this.costo           = 100;
             this.rallenta        = true;
         }
-        else if (tipo == BOMBA) {
+        else if (tipo == bomba) {
             this.danno           = 50;
             this.gittata         = 100;
             this.cooldownSecondi = (long) 3.5;
