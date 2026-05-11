@@ -4,8 +4,8 @@ public class Torretta {
     //TIPI TORRETTA
 
     public static final int freccia = 0;
-    public static final int MAGICA  = 1;
-    public static final int BOMBA   = 2;
+    public static final int magica  = 1;
+    public static final int bomba = 2;
 
     //ATTRIBUTI
 
