@@ -2,16 +2,10 @@ package com.example.demo;
 
 public class Nemico {
 
-    // ==============================
-    // TIPI DI NEMICO
-    // ==============================
     public static final int GOBLIN = 0;
     public static final int ORCO   = 1;
     public static final int OMBRA  = 2;
 
-    // ==============================
-    // ATTRIBUTI
-    // ==============================
     public int tipo;
     public double x;
     public double y;
@@ -20,12 +14,9 @@ public class Nemico {
     public double velocita;
     public int oroValore;
     public boolean vivo;
-    public int puntoPercorso; // indice del prossimo punto del percorso
-    public double missChance; // probabilita di schivare (solo Ombra)
+    public int puntoPercorso;
+    public double missChance;
 
-    // ==============================
-    // COSTRUTTORE
-    // ==============================
     public Nemico(int tipo, double startX, double startY) {
         this.tipo = tipo;
         this.x = startX;
